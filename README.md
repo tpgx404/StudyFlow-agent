@@ -102,9 +102,12 @@ StudyFlow-agent/
 
 (Add after uploading images to GitHub)
 
-![Home Page](images/home.png)
-![PDF Upload](images/upload.png)
-![Answer Output](images/output.png)
+![Home Page] <img width="1742" height="776" alt="image" src="https://github.com/user-attachments/assets/181b9ae1-6032-46d3-9714-c03f325304ba" />
+
+![PDF Upload] <img width="1186" height="811" alt="image" src="https://github.com/user-attachments/assets/e33c617e-5b01-4ced-aba2-1520d0dbc5de" />
+
+![Answer Output] <img width="1120" height="749" alt="image" src="https://github.com/user-attachments/assets/dfac7b53-7f34-4e0b-9636-697bc6bffa34" />
+
 
 ⚙ Limitations
 
@@ -127,3 +130,4 @@ VTU Internship Program
 👩‍💻 Author
 
 Thanmayi Prakash
+
