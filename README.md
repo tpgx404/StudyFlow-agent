@@ -52,7 +52,7 @@ streamlit run app.py
 
 View in browser at:
 
-http://localhost:8501
+https://studyflow-agent-cxpgnkzshstacmkvbzgcuz.streamlit.app/
 
 🔐 Setting Up Secrets (For Deployment)
 
@@ -128,5 +128,6 @@ VTU Internship Program
 👩‍💻 Author
 
 Thanmayi Prakash
+
 
 
