@@ -3,9 +3,7 @@
 StudyFlow is a simple AI-powered PDF Question Answering tool built using Streamlit, Google Gemini API, and PyPDF2.
 It allows users to upload a PDF and ask questions based only on the extracted text.
 
-This project was created as part of the VTU internship requirement.
-
-✨ Features
+.✨ Features
 
 📄 Upload a PDF
 
@@ -128,6 +126,7 @@ VTU Internship Program
 👩‍💻 Author
 
 Thanmayi Prakash
+
 
 
 
