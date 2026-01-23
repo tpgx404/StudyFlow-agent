@@ -121,11 +121,12 @@ Streamlit
 
 PyPDF2
 
-VTU Internship Program
+VTU Internship Program , Google X kaggle AI intensive course
 
 👩‍💻 Author
 
 Thanmayi Prakash
+
 
 
 
