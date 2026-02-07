@@ -26,7 +26,7 @@ Streamlit
 PyPDF2
 
 Google Gemini API (google-generativeai)
-
+ 
 📦 Installation (Run Locally)
 
 Clone the repository:
@@ -126,6 +126,7 @@ VTU Internship Program , Google X kaggle AI intensive course
 👩‍💻 Author
 
 Thanmayi Prakash
+
 
 
 
